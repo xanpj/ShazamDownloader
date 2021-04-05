@@ -1,6 +1,8 @@
 # ShazamDownloader
 Tool to export the list of your shazams and its youtube links
 
+This repo is no longer needed as Shazam now allows to download all your songs via the "Download to CSV" button.
+
 [Visit the tutorial](https://youtu.be/cVP4XTykaa0)
 
 1. Copy the code in scraper.js
